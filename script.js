@@ -89,7 +89,7 @@ function runPrayers(){
     text.style.animation="none";void text.offsetWidth;text.style.animation="prayerFade .9s";
     text.textContent=prayers[i];
     [...dots.children].forEach((d,n)=>d.classList.toggle("active",n===i));
-  },6500);
+  },3800);
 }
 
 document.getElementById("lastBtn").addEventListener("click",()=>{
