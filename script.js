@@ -70,7 +70,7 @@ const prayers=[
  "Semoga di usia 21 ini, hatimu semakin tenang, rezekimu semakin luas, dan mimpimu semakin dekat.",
  "Semoga kamu selalu dikelilingi cinta yang tulus, orang-orang baik, dan hari-hari yang membuatmu bersyukur.",
  "Dan semoga… aku selalu punya kesempatan untuk melihat senyum itu dari dekat. 💗",
- "Selamat ulang tahun, Caca. Terima kasih lahir di dunia ini. I Love you, More than Everything. ♡"
+ "Selamat ulang tahun, Caca. Terima kasih telar lahir di dunia ini. I Love you, More than Everything. ♡"
 ];
 
 document.getElementById("prayerBtn").addEventListener("click",()=>{
